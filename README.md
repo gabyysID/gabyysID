@@ -23,7 +23,7 @@
   <summary>👨‍💻 Mais sobre mim</summary>
 
    - 💬 Tenho 16 anos e atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python e Desenvolvimento Web.
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, amante de música (fascinação por Beyoncé), também tenho estudos profissionalizantes em arte! Além de assistir filmes e séries! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, amante de música (fascinação por Beyoncé), e tenho estudos profissionalizantes em arte! Além de assistir filmes e séries! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 ###
