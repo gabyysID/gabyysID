@@ -54,9 +54,6 @@
 ## Portfolio:
 - [Asteroids Arcade](https://github.com/gabyysID/Portfolio/tree/main/games/Asteroids)
 ###
-<img src="https://raw.githubusercontent.com/gabyysID/gabyysID/output/snake.svg" alt="Snake animation" />
-
-###
 <h3 align="left">🔥   Meus Status :</h3>
 
 ###
