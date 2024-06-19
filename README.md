@@ -53,6 +53,8 @@
 ###
 ## Portfolio:
 - [Asteroids Arcade](https://github.com/gabyysID/Portfolio/tree/main/games/Asteroids)
+- [Snake Game](https://github.com/gabyysID/Portfolio/tree/main/games/Snake)
+- [Pedra Papel Tesoura](https://github.com/gabyysID/Portfolio/tree/main/games/Pedra%20Paepl%20Tesoura)
 ###
 <h3 align="left">🔥   Meus Status :</h3>
 
