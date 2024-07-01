@@ -66,4 +66,4 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qd5gn5zg0b4jchyt68s3i9q4t)
+[](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qd5gn5zg0b4jchyt68s3i9q4t&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qd5gn5zg0b4jchyt68s3i9q4t&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)
