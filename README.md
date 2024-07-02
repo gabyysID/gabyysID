@@ -56,6 +56,9 @@
 - [Snake Game](https://github.com/gabyysID/Portfolio/tree/main/games/Snake)
 - [Pedra Papel Tesoura](https://github.com/gabyysID/Portfolio/tree/main/games/Pedra%20Paepl%20Tesoura)
 - [Piano](https://github.com/gabyysID/Portfolio/tree/main/anothers/piano)
+- [API- Movies](https://github.com/gabyysID/Portfolio/tree/main/anothers/API%20-%20OMDb%20Movie)
+- [Racer Fake](https://github.com/gabyysID/Portfolio/tree/main/games/Racer%20fake)
+- [Samurai Fighting](https://github.com/gabyysID/Portfolio/tree/main/games/fight)
 ###
 <h3 align="left">🔥   Meus Status :</h3>
 
