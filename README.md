@@ -22,7 +22,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-   - 💬 Trabalho como estagiaria e atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python e Desenvolvimento Web.
+   - 💬 Estou trabalhando como estagiaria e atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python e Desenvolvimento Web.
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, amante de música (fascinação por Beyoncé), e tenho estudos profissionalizantes em arte! Além de assistir filmes e séries! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
